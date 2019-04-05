@@ -1,0 +1,15 @@
+<resources>
+    <string name="play">play</string>
+    <string name="record">record</string>
+    <string name="stop">stop</string>
+    <string name="userid">Email:</string>
+    <string name="attempt">noattempt</string>
+    <string name="REGISTER">Register</string>
+    <string name="not_regi">Not registered?</string>
+    <string name="Forgot_pass">Forgot password</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="enter">enter the password</string>
+    <string name="password_text">Password</string>
+
+    <string name="app_name">DocMan</string>
+</resources>

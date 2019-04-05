@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".About">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to DocMan!
+
+If you are a person who is suffering with snoring, then you’ve come to the right
+place at the right time.
+
+Sleep illnesses are often left undiagnosed as their symptoms go unnoticed,
+unless you have a sleeping partner. Snoring is not a merely a sound produced due to nose block, there are numerous other reasons behind a person’s snoring. Some can be extremely malicious to our body, if left unchecked it may lead to a much horrifying doom called death. Hence, it has become a necessity to know the underlying cause of snoring.
+
+People who complain of snoring are often diagnosed with Obstructive Sleep Apnea. Obstructive sleep apnea (also called as OSA) is a condition which causes pauses in breathing while the person is sleeping. This leads to lack of oxygen in the body.
+
+DocMan app helps you record your snoring and analyses it and determines if you are suffering with OSA. If you are suffering with OSA it also tells us if OSA is mild, moderate or severe.
+
+Instructions to use DocMan:
+1) Keep your phone within a radius less than 50cms
+2) record your snoring signal. It should be atleast greater than 5 minutes to get effective results.
+3) After recording the Snoring signal share it to the default mail ID given.
+4) you will get your results soon after you share your snoring sound."
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="72dp" />
+    </RelativeLayout>
+
+   </android.support.constraint.ConstraintLayout>

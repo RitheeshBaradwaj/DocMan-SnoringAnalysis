@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "964720179905",
+    "firebase_url": "https://docman-bc0c8.firebaseio.com",
+    "project_id": "docman-bc0c8",
+    "storage_bucket": "docman-bc0c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964720179905:android:db3b9698d1c1192c",
+        "android_client_info": {
+          "package_name": "com.example.docman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964720179905-2a0ahp9n6blk91fh588tgs3i81gc7990.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.docman",
+            "certificate_hash": "899cde8de8ee4db9b3117ed1eacc8ac871fbc42e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa2Fj-MVFqtwVtxnv0zl4Dd2eQYQ5RaDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964720179905-kj184k95j6psf9f3n916gbpa3gjsgumc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

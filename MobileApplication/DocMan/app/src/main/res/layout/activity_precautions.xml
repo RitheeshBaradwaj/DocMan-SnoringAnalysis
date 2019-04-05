@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Precautions">
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+      <TextView
+          android:id="@+id/textView8"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignParentBottom="true"
+          android:layout_marginBottom="271dp"
+          android:text="General precautions:
+
+
+1)Do not take any sleeping pills or sedatives before bed this helps in keeping the throat from relaxing too much. 
+    Eat healthy
+
+2)Exercise frequently and maintain a healthy weight. Yoga is helpful in improving respiratory strength and can increase oxygen flow.
+
+3)Quit smoking
+
+4)Drink alcohol moderately, if at all, and don't drink several hours before bedtime.
+
+5)Use a nasal decongestant or medications for allergy, acid reflux or chronic coughs if you are suffering with it.
+
+6)Don’t sleep on your back. Sleep on your side or abdomen.
+
+7)Avoid driving, if you are drowsy.
+
+8)You can rub essential oils (like eucalyptus oils) on your chest before sleeping.
+(this precaution is generally observed to improve the condition,
+ but it may vary for different individuals taking different allergies into consideration)
+        Humidify your bedroom"
+          tools:layout_editor_absoluteX="77dp"
+          tools:layout_editor_absoluteY="96dp" />
+  </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
